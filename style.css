@@ -625,13 +625,14 @@ html {
 .footer-content {
   width: 60%;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .copyright {
   font-family: "Merriweather", serif;
   font-size: 1.6rem;
   color: #a7a7a7;
+  text-align: center;
 }
 
 .social-list a {
